@@ -29,13 +29,16 @@ I'm a **self-taught Full-Stack Developer** based in Kathmandu, Nepal. With a pas
 
 🔹 **[E-commerce App](https://github.com/Pickify)**  
 *Built with Bootstrap + Laravel* – A full-stack e-commerce platform with cart functionality, authentication, and payment integration.
-
-🔹 **[Rosy Pet Care](https://github.com/c-ron12/Rosy-Pet-Care)**  
-*A frontend template for a pet care website* – Clean UI using modern frontend tools.
+🎥 [Watch Demo Video](https://youtu.be/rL17QHYEoWY)  
+📁 [GitHub Repository](https://github.com/c-ron12/Pickify)  
 
 🔹 **[Suman Furniture](https://github.com/c-ron12/Suman-Furniture)**  
 *Full responsive business website created with pure HTML, CSS and JavaScript
+🎥 [Watch Demo Video](https://youtu.be/nbYxN0o9Jn8)  
+📁 [GitHub Repository](https://github.com/c-ron12/Pickify)  
 
+🔹 **[Rosy Pet Care](https://github.com/c-ron12/Rosy-Pet-Care)**  
+*A frontend template for a pet care website* – Clean UI using modern frontend tools.
 ---
 
 ## 📚 Background
