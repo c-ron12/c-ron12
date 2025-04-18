@@ -39,6 +39,7 @@ I'm a **self-taught Full-Stack Developer** based in Kathmandu, Nepal. With a pas
 
 🔹 **[Rosy Pet Care](https://github.com/c-ron12/Rosy-Pet-Care)**  
 *A frontend template for a pet care website* – Clean UI using modern frontend tools.
+📁 [GitHub Repository](https://github.com/c-ron12/Rosy-Pet-Care)  
 ---
 
 ## 📚 Background
