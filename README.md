@@ -54,7 +54,7 @@ I'm a **self-taught Full-Stack Developer** based in Kathmandu, Nepal. With a pas
 
 🧪 Training  
 - Self-trained as a Full-Stack Developer over 1 year.  
-- Gained strong command of problem-solving, time management, scheduling, and teamwork.
+- Gained strong expierence of problem-solving and time management.
 
 ---
 
