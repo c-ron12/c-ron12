@@ -53,7 +53,7 @@ I'm a **self-taught Full-Stack Developer** based in Kathmandu, Nepal. With a pas
 - Customer Service Representative – Saturn Outsource Pvt. Ltd (1 year)
 
 🧪 Training  
-- Self-trained as a Full-Stack Developer over 1 year.  
+- Self-trained as a Full-Stack Developer for more than a year.  
 - Gained strong expierence of problem-solving and time management.
 
 ---
