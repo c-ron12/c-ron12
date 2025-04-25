@@ -29,7 +29,7 @@ I'm a **self-taught Full-Stack Developer** based in Kathmandu, Nepal. With a pas
 
 🔹 **[E-commerce App](https://github.com/Pickify)**  
 *Built with Bootstrap + Laravel* – A full-stack e-commerce platform with cart functionality, authentication, and payment integration.
-🎥 [Watch Demo Video](https://youtu.be/rL17QHYEoWY)  
+🎥 [Watch Demo Video](https://youtu.be/UJT56bima_8)  
 📁 [GitHub Repository](https://github.com/c-ron12/Pickify)  
 
 🔹 **[Suman Furniture](https://github.com/c-ron12/Suman-Furniture)**  
