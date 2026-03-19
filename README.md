@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Rohan Chamlagai
 
-I'm a **self-taught Full-Stack Developer** based in Kathmandu, Nepal. With a passion for creating clean, responsive web applications, I enjoy turning problems into elegant, functional code.
+I'm a self-taught Full-Stack Developer based in Kathmandu, Nepal. With a passion for creating clean, responsive web applications, I enjoy turning problems into elegant, functional code. I've learned everything on my own through YouTube tutorials, documentation, and AI tools like ChatGPT and DeepSeek - proving that passion and dedication matter more than formal education.
 
 ---
 
@@ -8,11 +8,14 @@ I'm a **self-taught Full-Stack Developer** based in Kathmandu, Nepal. With a pas
 
 **Frontend**  
 - HTML5, CSS3, Vanilla JavaScript  
-- Bootstrap, Tailwind CSS  
+- Bootstrap, Tailwind CSS
+- **React JS** (with Hooks, Context API, etc.)
 
 **Backend**  
 - PHP  
-- Laravel Framework  
+- Laravel Framework
+  - Traditional MVC applications (Blade + JavaScript)
+  - REST API development (for React frontend)
 
 **Database**  
 - MySQL (SQL)
