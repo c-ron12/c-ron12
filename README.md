@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Rohan Chamlagai
 
-I'm a self-taught Full-Stack Developer based in Kathmandu, Nepal. With a passion for creating clean, responsive web applications, I enjoy turning problems into elegant, functional code. I've learned everything on my own through YouTube tutorials, documentation, and AI tools like ChatGPT and DeepSeek - proving that passion and dedication matter more than formal education.
+I'm a self-taught Full-Stack Developer based in Jhapa, Damak, Nepal. With a passion for creating clean, responsive web applications, I enjoy turning problems into elegant, functional code. I've learned everything on my own through YouTube tutorials, documentation, and AI tools like ChatGPT and DeepSeek - proving that passion and dedication matter more than formal education.
 
 ---
 
@@ -9,7 +9,7 @@ I'm a self-taught Full-Stack Developer based in Kathmandu, Nepal. With a passion
 **Frontend**  
 - HTML5, CSS3, Vanilla JavaScript  
 - Bootstrap, Tailwind CSS
-- **React JS** (with Hooks, Context API, etc.)
+- React JS (with Hooks, Context API, etc.)
 
 **Backend**  
 - PHP  
@@ -30,19 +30,20 @@ I'm a self-taught Full-Stack Developer based in Kathmandu, Nepal. With a passion
 
 ## 🚀 Projects
 
-🔹 **[E-commerce App](https://github.com/c-ron12/pickify)**  
-Built with Bootstrap + Laravel – A full-stack e-commerce platform with cart functionality, authentication, and payment integration.  
-🎥 [Watch Demo Video](https://youtu.be/UJT56bima_8)  
+🔹 **[Pickify](https://github.com/c-ron12/pickify)**  
+Built with Bootstrap, Vanilla JS and Laravel – A full-stack e-commerce platform with cart functionality, authentication, and payment integration.  
+🎥 [Watch Demo Video](https://youtu.be/NKyUKqP8GYE)  
 📁 [GitHub Repository](https://github.com/c-ron12/pickify)  
+
+🔹 **[UrbanEdge Construction](https://github.com/c-ron12/urbanedge-construction.git)**  
+Built with React and Laravel – A full-stack construction company platform featuring dynamic project listings, services, blogs, and a robust admin panel.  
+🎥 [Watch Demo Video](https://youtu.be/V_mWTe5vhuU)  
+📁 [GitHub Repository](https://github.com/c-ron12/urbanedge-construction.git)
 
 🔹 **[Suman Furniture](https://github.com/c-ron12/Suman-Furniture)**  
 Full responsive business website created with pure HTML, CSS and JavaScript.  
 🎥 [Watch Demo Video](https://youtu.be/nbYxN0o9Jn8)  
 📁 [GitHub Repository](https://github.com/c-ron12/Suman-Furniture)  
-
-🔹 **[Rosy Pet Care](https://github.com/c-ron12/Rosy-Pet-Care)**  
-A frontend template for a pet care website – Clean UI using modern frontend tools.  
-📁 [GitHub Repository](https://github.com/c-ron12/Rosy-Pet-Care)  
 
 ---
 
@@ -57,7 +58,7 @@ A frontend template for a pet care website – Clean UI using modern frontend to
 - Customer Service Representative – Saturn Outsource Pvt. Ltd (1 year)
 
 🧪 Training  
-- Self-trained as a Full-Stack Developer for more than a year.  
+- Self-trained as a Full-Stack Developer for more than two years.  
 - Gained strong expierence of problem-solving and time management.
 
 ---
