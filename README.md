@@ -36,14 +36,13 @@ Built with Bootstrap, Vanilla JS and Laravel – A full-stack e-commerce platfor
 📁 [GitHub Repository](https://github.com/c-ron12/pickify)  
 
 🔹 **[UrbanEdge Construction](https://github.com/c-ron12/urbanedge-construction.git)**  
-Built with React and Laravel – A full-stack construction company platform featuring dynamic project listings, services, blogs, and a robust admin panel.  
+Developed using React and Laravel – A full-stack construction company platform featuring dynamic project listings, services, blogs, and a robust admin panel.  
 🎥 [Watch Demo Video](https://youtu.be/V_mWTe5vhuU)  
 📁 [GitHub Repository](https://github.com/c-ron12/urbanedge-construction.git)
 
-🔹 **[Suman Furniture](https://github.com/c-ron12/Suman-Furniture)**  
-Full responsive business website created with pure HTML, CSS and JavaScript.  
-🎥 [Watch Demo Video](https://youtu.be/nbYxN0o9Jn8)  
-📁 [GitHub Repository](https://github.com/c-ron12/Suman-Furniture)  
+🔹 **[Ucin Cow Farm](https://github.com/c-ron12/ucin-farm.git)**  
+A responsive cow farm business website built with Bootstrap, Vanilla JavaScript and Laravel featuring a clean, modern, and mobile-friendly user interface.
+📁 [GitHub Repository](https://github.com/c-ron12/ucin-farm.git)  
 
 ---
 
