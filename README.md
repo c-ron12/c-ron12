@@ -2,7 +2,7 @@
 
 I'm a self-taught Full-Stack Developer based in Damak, Jhapa, Nepal passionate about building clean, responsive and functional web applications. I specialize in developing modern web solutions using React, Laravel, PHP, MySQL and JavaScript.
 
-Through continuous self-learning, documentation, and hands-on project development, I have built multiple full-stack applications, focusing on real-world problem solving, scalable architecture and user-friendly experiences.
+Through continuous self-learning, documentation and hands-on project development, I have built multiple full-stack applications, focusing on real-world problem solving, scalable architecture and user-friendly experiences.
 
 ---
 
