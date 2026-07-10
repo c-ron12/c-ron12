@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm Rohan Chamlagai
 
-I'm a self-taught Full-Stack Developer based in Jhapa, Damak, Nepal. With a passion for creating clean, responsive web applications, I enjoy turning problems into elegant, functional code. I've learned everything on my own through YouTube tutorials, documentation, and AI tools like ChatGPT and DeepSeek - proving that passion and dedication matter more than formal education.
+I'm a self-taught Full-Stack Developer based in Jhapa, Nepal, passionate about building clean, responsive, and functional web applications. I specialize in developing modern web solutions using React, Laravel, PHP, MySQL, and JavaScript.
+
+Through continuous self-learning, documentation, and hands-on project development, I have built multiple full-stack applications, focusing on real-world problem solving, scalable architecture, and user-friendly experiences.
 
 ---
 
@@ -27,7 +29,14 @@ I'm a self-taught Full-Stack Developer based in Jhapa, Damak, Nepal. With a pass
 - Adobe Photoshop
 
 ---
+## 💼 Freelance Web Developer (Project-Based)
+2025 - Present
 
+Completed client-based web development projects, delivering responsive and full-stack solutions:
+
+- **Pickify** — Full-stack e-commerce application with authentication, cart functionality, payment integration, and admin features.
+- **Ucin Cow Farm** — Responsive business website focused on modern UI design and user experience.
+  
 ## 🚀 Projects
 
 🔹 **[Pickify](https://github.com/c-ron12/pickify)**  
@@ -58,7 +67,7 @@ A responsive cow farm business website built with Bootstrap, Vanilla JavaScript 
 
 🧪 Training  
 - Self-trained as a Full-Stack Developer for more than two years.  
-- Gained strong expierence of problem-solving and time management.
+- Gained strong experience of problem-solving and time management.
 
 ---
 
