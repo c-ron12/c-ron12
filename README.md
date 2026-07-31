@@ -17,14 +17,11 @@ Full-Stack Developer based in Damak, Jhapa, Nepal, dedicated to building clean, 
   - Traditional MVC applications (Blade + JavaScript)
   - REST API development (for React frontend)
 
-**Database**  
-- MySQL (SQL)
-
-**Other Skills**  
-- Git & GitHub (Version Control)  
-- REST APIs  
-- Responsive Web Design  
-- Adobe Photoshop
+🧰**Tools & Workflow**
+- API Testing & Tooling: Postman
+- Version Control: Git, GitHub
+- Database Management: MySQL, phpMyAdmin
+- Design & Layout: Adobe Photoshop, Responsive Web Design
 
 ---
 ## 💼 Freelance Web Developer (Project-Based)
