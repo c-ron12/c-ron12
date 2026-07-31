@@ -1,8 +1,6 @@
 # 👋 Hi there, I'm Rohan Chamlagai
 
-I'm a self-taught Full-Stack Developer based in Damak, Jhapa, Nepal passionate about building clean, responsive and functional web applications. I specialize in developing modern web solutions using React, Laravel, PHP, MySQL and JavaScript.
-
-Through continuous self-learning, documentation and hands-on project development, I have built multiple full-stack applications, focusing on real-world problem solving, scalable architecture and user-friendly experiences.
+Full-Stack Developer based in Damak, Jhapa, Nepal, dedicated to building clean, responsive, and functional web applications. Driven by continuous self-learning, I specialize in creating modern web solutions using React, Laravel, PHP, MySQL, and JavaScript. My experience comes from building multiple full-stack applications with a focus on real-world problem solving, scalable architecture, and user-friendly experiences.
 
 ---
 
