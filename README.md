@@ -18,6 +18,7 @@ Full-Stack Developer based in Damak, Jhapa, Nepal, dedicated to building clean, 
   - REST API development (for React frontend)
 
 🧰**Tools & Workflow**
+- Containerization: Docker
 - API Testing & Tooling: Postman
 - Version Control: Git, GitHub
 - Database Management: MySQL, phpMyAdmin
