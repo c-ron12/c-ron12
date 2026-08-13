@@ -19,6 +19,7 @@ Full-Stack Developer based in Damak, Jhapa, Nepal, dedicated to building clean, 
 
 🧰**Tools & Workflow**
 - Containerization: Docker
+- Development & Debugging: Chrome DevTools
 - API Testing & Tooling: Postman
 - Version Control: Git, GitHub
 - Database Management: MySQL, phpMyAdmin
