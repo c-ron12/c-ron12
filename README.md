@@ -7,7 +7,7 @@ Full-Stack Developer based in Damak, Jhapa, Nepal, dedicated to building clean, 
 ## 🧰 Tech Stack
 
 **Frontend**  
-- HTML5, CSS3, Vanilla JavaScript  
+- HTML5, CSS3, JavaScript (ES6+, AJAX, Fetch API)
 - Bootstrap, Tailwind CSS
 - React JS (with Hooks, Context API, etc.)
 
@@ -16,9 +16,12 @@ Full-Stack Developer based in Damak, Jhapa, Nepal, dedicated to building clean, 
 - Laravel Framework
   - Traditional MVC applications (Blade + JavaScript)
   - REST API development (for React frontend)
-
-🧰**Tools & Workflow**
+    
+🧰 **Tools & Workflow**
 - Containerization: Docker
+- Deployment & Hosting:
+  - Shared Hosting (cPanel) — Practical deployment experience
+  - AWS ECR & ECS — Basic knowledge of Docker container deployment
 - Development & Debugging: Chrome DevTools
 - API Testing & Tooling: Postman
 - Version Control: Git, GitHub
