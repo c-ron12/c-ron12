@@ -10,6 +10,7 @@ Full-Stack Developer based in Damak, Jhapa, Nepal, dedicated to building clean, 
 - HTML5, CSS3, JavaScript (ES6+, AJAX, Fetch API)
 - Bootstrap, Tailwind CSS
 - React JS (with Hooks, Context API, etc.)
+- TypeScript (Fundamentals, with React)
 
 **Backend**  
 - PHP  
