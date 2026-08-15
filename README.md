@@ -21,7 +21,7 @@ Full-Stack Developer based in Damak, Jhapa, Nepal, dedicated to building clean, 
 - Containerization: Docker
 - Cloud & Deployment:
     - Shared Hosting (cPanel) — Practical site deployment and setup
-    - AWS ECR & ECS — Basic knowledge of Docker container deployment
+    - AWS ECR & ECS — Fundamental knowledge of container deployment
 - Development & Debugging: Chrome DevTools
 - API Testing & Tooling: Postman
 - Version Control: Git, GitHub
