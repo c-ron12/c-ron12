@@ -17,7 +17,7 @@ Full-Stack Developer based in Damak, Jhapa, Nepal, dedicated to building clean, 
   - Traditional MVC applications (Blade + JavaScript)
   - REST API development (for React frontend)
     
-🧰 **Tools & Workflow**
+**Tools & Workflow**
 - Containerization: Docker
 - Cloud & Deployment:
     - Shared Hosting (cPanel) — Practical site deployment and setup
@@ -27,8 +27,8 @@ Full-Stack Developer based in Damak, Jhapa, Nepal, dedicated to building clean, 
 - Version Control: Git, GitHub
 - Database Management: MySQL, phpMyAdmin
 - Design & Layout: Adobe Photoshop
-
-  **Web & SEO**
+  
+**Web & SEO**
 - Responsive Web Design
 - On-Page SEO, Performance Optimization
 
