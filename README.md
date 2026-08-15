@@ -10,7 +10,6 @@ Full-Stack Developer based in Damak, Jhapa, Nepal, dedicated to building clean, 
 - HTML5, CSS3, JavaScript (ES6+, AJAX, Fetch API)
 - Bootstrap, Tailwind CSS
 - React (with Hooks, Context API, etc.)
-- TypeScript (Fundamentals, with React)
 
 **Backend**  
 - PHP  
@@ -27,7 +26,11 @@ Full-Stack Developer based in Damak, Jhapa, Nepal, dedicated to building clean, 
 - API Testing & Tooling: Postman
 - Version Control: Git, GitHub
 - Database Management: MySQL, phpMyAdmin
-- Design & Layout: Adobe Photoshop, Responsive Web Design
+- Design & Layout: Adobe Photoshop
+
+  **Web & SEO**
+- Responsive Web Design
+- On-Page SEO, Performance Optimization
 
 ---
 ## 💼 Freelance Web Developer (Project-Based)
