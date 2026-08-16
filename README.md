@@ -70,8 +70,9 @@ A responsive cow farm business website built with Bootstrap, Vanilla JavaScript 
 - Customer Service Representative – Saturn Outsource Pvt. Ltd (1 year)
 
 🧪 Training  
-- Self-trained as a Full-Stack Developer for more than two years.  
-- Gained strong experience of problem-solving and time management.
+- Self-directed Full-Stack Developer with 2+ years of hands-on learning and project development through
+   online courses, technical documentation, and practical application. 
+- Strong interest in continuous learning, practical problem-solving, and modern web development.
 
 ---
 
