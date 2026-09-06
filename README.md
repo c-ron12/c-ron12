@@ -81,7 +81,7 @@ A responsive cow farm business website built with Bootstrap, Vanilla JavaScript 
 
 ## 📫 Let's Connect
 
-📧 Email: [pioneerboy912@gmail.com](mailto:ron.chettri12@gmail.com)  
+📧 Email: [ron.chettri12@gmail.com](mailto:ron.chettri12@gmail.com)  
 📞 Phone: +977-9824063524  
 🌐 GitHub: [github.com/c-ron12](https://github.com/c-ron12)  
 📍 Kathmandu, Nepal
