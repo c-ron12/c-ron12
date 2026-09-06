@@ -16,17 +16,20 @@ Full-Stack Developer based in Damak, Jhapa, Nepal, dedicated to building clean, 
 - Laravel Framework
   - Traditional MVC applications (Blade + JavaScript)
   - REST API development (for React frontend)
-    
-**Tools & Workflow**
-- Containerization: Docker
+  - 
+**DevOps, Cloud & Tools**
+- Containerization: Docker, Docker Compose
+- Web Server: Nginx, Apache
+- Local Development: XAMPP
+- CI/CD: GitHub Actions
 - Cloud & Deployment:
-    - Shared Hosting (cPanel) — Practical site deployment and setup
-    - AWS ECR & ECS — Fundamental knowledge of container deployment
-- Development & Debugging: Chrome DevTools
-- API Testing & Tooling: Postman
+  - Amazon Web Service (AWS)- ECR & ECS — Fundamental knowledge of container deployment
+  - Shared Hosting (cPanel) — Practical site deployment and setup
 - Version Control: Git, GitHub
+- Development & Debugging: Chrome DevTools
+- API Testing: Postman
 - Database Management: MySQL, phpMyAdmin
-- Design & Layout: Adobe Photoshop
+- Design: Adobe Photoshop
   
 **Web & SEO**
 - Responsive Web Design
