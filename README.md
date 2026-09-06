@@ -23,7 +23,7 @@ Full-Stack Developer based in Damak, Jhapa, Nepal, dedicated to building clean, 
 - Local Development: XAMPP
 - CI/CD: GitHub Actions
 - Cloud & Deployment:
-  - Amazon Web Service (AWS)- ECR & ECS — Fundamental knowledge of container deployment
+  - Amazon Web Services (AWS)- ECR & ECS — Fundamental knowledge of container deployment
   - Shared Hosting (cPanel) — Practical site deployment and setup
 - Version Control: Git, GitHub
 - Development & Debugging: Chrome DevTools
