@@ -16,7 +16,7 @@ Full-Stack Developer based in Damak, Jhapa, Nepal, dedicated to building clean, 
 - Laravel Framework
   - Traditional MVC applications (Blade + JavaScript)
   - REST API development (for React frontend)
-  - 
+    
 **DevOps, Cloud & Tools**
 - Containerization: Docker, Docker Compose
 - CI/CD: GitHub Actions
