@@ -19,8 +19,6 @@ Full-Stack Developer based in Damak, Jhapa, Nepal, dedicated to building clean, 
   - 
 **DevOps, Cloud & Tools**
 - Containerization: Docker, Docker Compose
-- Web Server: Nginx, Apache
-- Local Development: XAMPP
 - CI/CD: GitHub Actions
 - Cloud & Deployment:
   - Amazon Web Services (AWS)- ECR & ECS — Fundamental knowledge of container deployment
